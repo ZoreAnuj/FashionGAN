@@ -2,6 +2,8 @@
 
 This repository contains a step-by-step tutorial on building and training a Fashion Generative Adversarial Network (FashionGAN) using TensorFlow. FashionGAN is a powerful AI model that generates synthetic fashion images resembling real clothing, shoes, and accessories.
 
+## Results: [Link](https://drive.google.com/drive/folders/1-4fpju13NJEO-9oqz_4P1IWAk1Liw69i?usp=sharing)
+
 ## Table of Content
 
 1. Introduction
